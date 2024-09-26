@@ -1,0 +1,20 @@
+tensorflow
+pandas==2.2.3
+dvc==3.15.2
+mlflow==2.16.2
+notebook
+numpy==1.26.4
+matplotlib
+seaborn==0.13.2
+python-box
+pyYAML
+tqdm
+ensure
+joblib
+types-PyYAML
+scipy
+Flask
+Flask-Cors
+gdown
+
+-e .
